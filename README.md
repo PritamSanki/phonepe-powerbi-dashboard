@@ -132,23 +132,6 @@ DIVIDE(
 
 ---
 
-## 📂 Repository Structure
-
-```text
-phonepe/
-│
-├── Dashboard.jpg
-├── tooltip1.jpg
-├── tooltip2.jpg
-├── PhonePe Dashboard.pbix
-├── README.md
-│
-└── Dataset/
-    └── Source Files
-```
-
----
-
 ## 🎯 Business Value
 
 This dashboard enables stakeholders to:
@@ -158,16 +141,6 @@ This dashboard enables stakeholders to:
 - Understand customer demographics
 - Track platform reliability
 - Support strategic business decisions
-
----
-
-## 🔮 Future Enhancements
-
-- Regional Analysis
-- Revenue Forecasting
-- User Retention Metrics
-- Fraud Detection Indicators
-- Real-Time Data Integration
 
 ---
 
