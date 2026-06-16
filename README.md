@@ -16,8 +16,7 @@ The goal of this project is to transform raw transaction data into meaningful in
 
 ### Main Dashboard
 
-![PhonePe Dashboard](Dashboard.jpg)
-
+![PhonePe Dashboard](images/Dashboard.jpg)
 ---
 
 ## 🛠️ Tools & Technologies
@@ -83,12 +82,10 @@ The goal of this project is to transform raw transaction data into meaningful in
 
 ### Transaction Trend Analysis
 
-![Transaction Trend](tooltip1.jpg)
-
+![Transaction Trend](images/tooltip1.jpg)
 ### Additional Dashboard View
 
-![Dashboard Details](tooltip2.jpg)
-
+![Dashboard Details](images/tooltip2.jpg)
 ---
 
 ## 💡 Key Insights
